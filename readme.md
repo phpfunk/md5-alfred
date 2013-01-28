@@ -1,7 +1,7 @@
 MD5 for Alfred
 ============
 
-A workflow to encrypt and decrypt strings using MD5. You will need Alfred Version 2 and the Powerpack to install. You can get it here.
+A workflow to encrypt and decrypt strings using MD5. You will need Alfred Version 2 and the Powerpack to install. You can get it [here](http://www.alfredapp.com/).
 
 Installation
 ----------------
