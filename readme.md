@@ -24,7 +24,7 @@ All results copied to your clipboard.
 
 Download
 ----------------
-[MD5 for Alfred](https://github.com/phpfunk/md5-alfred/downloads)
+[MD5 for Alfred](https://github.com/phpfunk/md5-alfred/archive/master.zip)
 
 
 ## Version History ##
